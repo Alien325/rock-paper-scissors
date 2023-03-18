@@ -23,9 +23,7 @@ public class rock {
             System.out.println("boat wins:- YOU LOST -:");
         }
         System.out.println( "computer's choise:- " +boat);
-        // if(player1=!0 || player1=!1||player1=!2){
-        //     System.out.println("you have enterd worng choices");
-        // }
+        
     }
     
 }
